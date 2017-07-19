@@ -1,0 +1,14 @@
+/*
+ Theme Name:   WordStrap Child
+ Theme URI:    http://example.com/wordstrap-child/
+ Description:  WordStrap Child Theme
+ Author:       Niccu Bagonoc
+ Author URI:   http://www.nbagonoc.com
+ Template:     wpboilerplate
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  wordstrap-child
+*/
+@import url('../wordstrap/style.css');
